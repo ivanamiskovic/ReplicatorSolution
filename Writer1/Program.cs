@@ -17,6 +17,7 @@ namespace Writer1
 		private static void Main(string[] args)
 		{
 
+
 			dataGenerator = new DataGenerator(connecter);
 			dataGenerator.GenerateData();
 
